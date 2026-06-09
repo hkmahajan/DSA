@@ -2,10 +2,10 @@ package Pattern_Programs;
 
 public class Quadrilateral {
     public static void main(String[] args) {
-//        Square();
-//        hollow_Square();
-//        rectangle();
-//        hollow_rectangle();
+        Square();
+        hollow_Square();
+        rectangle();
+        hollow_rectangle();
         Equlatral_Traingle();
     }
     public static void Square(){
