@@ -1,0 +1,14 @@
+package LinkedList;
+
+public class SinglyCircularLinkedList {
+
+    Node head;
+
+    class Node{
+        int data;
+        Node next;
+    }
+    public static void main(String[] args) {
+
+    }
+}

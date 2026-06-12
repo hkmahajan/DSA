@@ -1,4 +1,4 @@
-# Qspiders Java Programs
+#Java Programs
 
 This repository contains various Java programs covering foundational concepts, data structures, and algorithms. It serves as a comprehensive practice and reference guide for Java programming.
 

@@ -3,7 +3,7 @@ package Binary_Search;
 public class SqrRoot {
     static int sqrrt = 0;
     public static void main(String[] args) {
-        System.out.println(sqrroot(40,0,40));
+        System.out.println(sqrroot(626,0,626));
     }
     public static int sqrroot(int target,int start,int end){
         if(start>end){
